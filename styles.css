@@ -1,0 +1,51 @@
+body{
+     background-color:blue;
+}
+class
+div {
+    border: solid #A07F6A;
+    color: black;
+}
+
+
+h1{
+     
+    color:gold;
+    text-align: center;
+     text-shadow: 4px 4px black;
+ }   
+h2{
+     
+    color:white;
+    text-align: center;
+     text-shadow: 6px 6px black;
+ }   
+img{
+ width:350px; 
+     display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+img{
+    width:350px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+img {
+  border-radius: 100px;
+}
+button{ 
+    width:100px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.What{
+    border: 5px black solid; 
+     margin: 5px;
+    padding: 10px;
+   text-align:center;
+}
+        
